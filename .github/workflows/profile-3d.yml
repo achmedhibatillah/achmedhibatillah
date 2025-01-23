@@ -1,20 +1,20 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 18 * * *"  # Ini jadwal otomatis untuk menjalankan action setiap hari pada waktu UTC
-  workflow_dispatch:  # Bisa menjalankan secara manual dari GitHub Actions
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3  # Checkout kode repository
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1  # Menggunakan GitHub Action untuk generate 3D calendar
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_PAT_TOKEN }}  # Token akses untuk GitHub
-          USERNAME: ${{ github.repository_owner }}  # Nama pengguna yang menjadi target
+          GITHUB_TOKEN: ${{ secrets.MY_PAT_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
