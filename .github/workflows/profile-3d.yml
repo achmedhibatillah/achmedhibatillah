@@ -1,3 +1,7 @@
+- name: Debug Token
+  run: echo "Token length: ${#secrets.MY_PAT_TOKEN}"
+
+
 name: GitHub-Profile-3D-Contrib
 
 on:
