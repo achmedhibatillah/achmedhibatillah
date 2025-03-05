@@ -21,4 +21,4 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add -A
           git commit -m "generated" --allow-empty
-          git push https://github.com/achmedhibatillah/achmedhibatillah.git
+          git push https://achmedhibatillah:${{ secrets.MY_PAT_TOKEN }}@github.com/achmedhibatillah/achmedhibatillah.git
