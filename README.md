@@ -21,25 +21,12 @@ Full-stack web developer and cloud engineer with a strong enthusiasm for data sc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmedhibatillah&layout=pie&theme=gruvbox_light)
 
-<h4 align="left">📬 You Can Reach Me at</h4>
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: stretch;">
-  <a href="https://achmedhibatillah.com" target="_blank" style="flex: 1 1 200px; color: #F5EEBB; background-color: #234E70; padding: 16px; border-radius: 10px; text-decoration: none; display: flex; align-items: center; gap: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg" alt="Website" height="24" />
-    <span>achmedhibatillah.com</span>
-  </a>
+#### 📬 You Can Reach Me at
 
-  <a href="https://www.linkedin.com/in/achmedhibatillah/" target="_blank" style="flex: 1 1 200px; color: #F5EEBB; background-color: #234E70; padding: 16px; border-radius: 10px; text-decoration: none; display: flex; align-items: center; gap: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="24" />
-    <span>linkedin.com/in/achmedhibatillah</span>
-  </a>
+| Platform | Link |
+| -------- | ---- |
+| **Website** | [achmedhibatillah.com](https://achmedhibatillah.com) ![Website](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg) |
+| **LinkedIn** | [linkedin.com/in/achmedhibatillah](https://www.linkedin.com/in/achmedhibatillah/) ![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg) |
+| **Instagram** | [instagram.com/achmedhibatillah](https://instagram.com/achmedhibatillah) ![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg) |
+| **Email** | [contact@achmedhibatillah.com](mailto:contact@achmedhibatillah.com) ![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg) |
 
-  <a href="https://instagram.com/achmedhibatillah" target="_blank" style="flex: 1 1 200px; color: #F5EEBB; background-color: #234E70; padding: 16px; border-radius: 10px; text-decoration: none; display: flex; align-items: center; gap: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="24" />
-    <span>instagram.com/achmedhibatillah</span>
-  </a>
-
-  <a href="mailto:contact@achmedhibatillah.com" style="flex: 1 1 200px; color: #F5EEBB; background-color: #234E70; padding: 16px; border-radius: 10px; text-decoration: none; display: flex; align-items: center; gap: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="24" />
-    <span>contact@achmedhibatillah.com</span>
-  </a>
-</div>
