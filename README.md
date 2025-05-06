@@ -17,9 +17,7 @@ Full-stack web developer and cloud engineer with a strong enthusiasm for data sc
 
 
 ##### Github Stats
-![Achmed Hibatillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=achmedhibatillah&show_icons=true&theme=gruvbox_light)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmedhibatillah&layout=pie&theme=gruvbox_light)
+![Achmed Hibatillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=achmedhibatillah&show_icons=true&theme=gruvbox_light) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmedhibatillah&layout=pie&theme=gruvbox_light)
 
 #### 📬 You Can Reach Me at
 
