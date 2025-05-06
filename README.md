@@ -18,6 +18,6 @@ Full-stack web developer and cloud engineer with a strong enthusiasm for data sc
 
 - **Website**: [achmedhibatillah.com](https://achmedhibatillah.com)
 - **LinkedIn**: [linkedin.com/in/achmedhibatillah](https://www.linkedin.com/in/achmedhibatillah/)
-- **Instagram**: [instagram.com/achmedhibatillah](https://instagram.com/ahmedh._)
+- **Instagram**: [instagram.com/ahmedh._](https://instagram.com/ahmedh._)
 - **Email**: [contact@achmedhibatillah.com](mailto:contact@achmedhibatillah.com)
 
