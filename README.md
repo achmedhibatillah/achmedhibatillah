@@ -23,8 +23,8 @@ Full-stack web developer and cloud engineer with a strong enthusiasm for data sc
 
 #### 📬 You Can Reach Me at
 
-- **Website**: [achmedhibatillah.com](https://achmedhibatillah.com) ![Website](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg)
-- **LinkedIn**: [linkedin.com/in/achmedhibatillah](https://www.linkedin.com/in/achmedhibatillah/) ![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)
-- **Instagram**: [instagram.com/achmedhibatillah](https://instagram.com/achmedhibatillah) ![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg)
-- **Email**: [contact@achmedhibatillah.com](mailto:contact@achmedhibatillah.com) ![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)
+- **Website**: [achmedhibatillah.com](https://achmedhibatillah.com) ![Website](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg =20x20)
+- **LinkedIn**: [linkedin.com/in/achmedhibatillah](https://www.linkedin.com/in/achmedhibatillah/) ![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg =20x20)
+- **Instagram**: [instagram.com/achmedhibatillah](https://instagram.com/achmedhibatillah) ![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg =20x20)
+- **Email**: [contact@achmedhibatillah.com](mailto:contact@achmedhibatillah.com) ![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg =20x20)
 
