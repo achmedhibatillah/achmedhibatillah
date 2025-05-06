@@ -14,11 +14,6 @@ Full-stack web developer and cloud engineer with a strong enthusiasm for data sc
 ##### 🗃️ Data Management
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
-
-##### 📈 Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmedhibatillah&layout=pie&theme=gruvbox_light)
-
 #### 📬 You Can Reach Me at
 
 - **Website**: [achmedhibatillah.com](https://achmedhibatillah.com)
