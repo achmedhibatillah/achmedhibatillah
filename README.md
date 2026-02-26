@@ -31,7 +31,7 @@
 - **Crates.io**: [crates.io/users/achmedhibatillah](https://crates.io/users/achmedhibatillah)
 
 ##### 📚 Research Acount
-- **Orcid**: (orcid.org/0009-0004-8105-7857)[https://orcid.org/0009-0004-8105-7857]
+- **Orcid**: [orcid.org/0009-0004-8105-7857](https://orcid.org/0009-0004-8105-7857)
 
 ##### 📬 You Can Reach Me at
 - **Website**: [achmedhibatillah.com](https://achmedhibatillah.com)
